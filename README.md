@@ -23,7 +23,7 @@ currency.py : python script that will contain the code for checking if currency 
 test_api.py : python script for testing code from api.py
 test_currency.py : python script for testing code from currency.py
 
-![image](https://github.com/gerardo5797/PythonCurrencyConverter/assets/88528474/fc8d928b-4eb0-4933-a271-c622211b30b7)
+![image](https://github.com/gerardo5797/PythonCurrencyConverter/assets/88528474/44e9219f-5ee1-44af-871b-f7e659daaffa)
 
 
 
